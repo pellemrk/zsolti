@@ -1,0 +1,9 @@
+C:\Users\Mark\source\repos\Enco\Enco.Core\bin\Debug\netcoreapp3.1\Enco.Core.deps.json
+C:\Users\Mark\source\repos\Enco\Enco.Core\bin\Debug\netcoreapp3.1\Enco.Core.dll
+C:\Users\Mark\source\repos\Enco\Enco.Core\bin\Debug\netcoreapp3.1\Enco.Core.pdb
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.dll
+C:\Users\Mark\source\repos\Enco\Enco.Core\obj\Debug\netcoreapp3.1\Enco.Core.pdb

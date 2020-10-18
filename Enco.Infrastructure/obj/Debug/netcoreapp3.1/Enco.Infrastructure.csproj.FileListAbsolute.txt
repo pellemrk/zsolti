@@ -1,0 +1,12 @@
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\bin\Debug\netcoreapp3.1\Enco.Core.dll
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\bin\Debug\netcoreapp3.1\Enco.Infrastructure.deps.json
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\bin\Debug\netcoreapp3.1\Enco.Infrastructure.dll
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\bin\Debug\netcoreapp3.1\Enco.Infrastructure.pdb
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\bin\Debug\netcoreapp3.1\Enco.Core.pdb
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.csproj.CopyComplete
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.dll
+C:\Users\Mark\source\repos\Enco\Enco.Infrastructure\obj\Debug\netcoreapp3.1\Enco.Infrastructure.pdb
